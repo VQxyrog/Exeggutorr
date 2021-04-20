@@ -39,7 +39,7 @@ This is Program To Extract File CSS and JavaScript From URL Page
   ```
 
 - ```bash
-  $ cd Extractor
+  $ cd Exeggutorr
   ```
 
 - ```bash
