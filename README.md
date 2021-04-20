@@ -2,8 +2,6 @@
 Extract file css and js from url page
 ![20210420_181539](https://user-images.githubusercontent.com/82809095/115387898-7536e480-a205-11eb-82e1-ac36c4265deb.jpg)
 
-# Info
-
 ##
 ### :octocat: Hi, thanks for spending your time visiting this repository !
 <p>
@@ -37,7 +35,7 @@ This is Program To Extract File CSS and JavaScript From URL Page
   ```
 
 - ```bash
-  $ git clone https://github.com/AsukaDev-Official/Extractor
+  $ git clone https://github.com/VQxyrog/Exeggutorr.git
   ```
 
 - ```bash
