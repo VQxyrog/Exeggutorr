@@ -43,5 +43,5 @@ This is Program To Extract File CSS and JavaScript From URL Page
   ```
 
 - ```bash
-  $ python3 extractor.py
+  $ python3 exeggutor.py
   ```
