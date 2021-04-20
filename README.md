@@ -1,6 +1,6 @@
 # Extractor
 Extract file css and js from url page
-![20210420_181539](https://user-images.githubusercontent.com/82809095/115387898-7536e480-a205-11eb-82e1-ac36c4265deb.jpg)
+![20210420_204041](https://user-images.githubusercontent.com/82809095/115406040-006da580-a219-11eb-990f-a3432e17a6db.jpg)
 
 ##
 ### :octocat: Hi, thanks for spending your time visiting this repository !
