@@ -19,9 +19,9 @@ logo = f"""
     (_> _)     {GREEN}\  ___/ >    <  |  |  |  | \// __ \\  \___|  |{RESET}
       `)(_     {GREEN} \___  >__/\_ \ |__|  |__|  (____  /\___  >__|{RESET}
       /((_`)_, {GREEN}     \/      \/                  \/     \/{RESET}
-      \__(/-"               JS & CSS Extractor
+      \__(/-"               JS & CSS Exeggutorr
      __|||__                 code : Onzie
-    ((__|__))           komunitas : 1337
+    ((__|__))            comunity : 1337
 """
 print(logo)
 url = input(f"Enter url: {GREEN}")
