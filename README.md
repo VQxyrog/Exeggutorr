@@ -1,4 +1,4 @@
-# Extractor
+# Exeggutor
 Extract file css and js from url page
 ![20210420_204041](https://user-images.githubusercontent.com/82809095/115406040-006da580-a219-11eb-990f-a3432e17a6db.jpg)
 
